@@ -29,6 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samash1234567&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="samash1234567" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samash1234567&show_icons=true&theme=tokyonight&locale=en" alt="samash1234567" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samash1234567&theme=dark" alt="samash1234567" /></p>
