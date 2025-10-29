@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A rag tag developer with a passion in all things tech!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samash1234567&label=Profile%20views&color=0e75b6&theme=onedark" alt="samash1234567" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samash1234567" alt="samash1234567" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samash1234567&theme=onedark" alt="samash1234567" /></a> </p>
 
 
 <p><img align="left" style="height: 197px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=samash1234567&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="samash1234567" /></p>
