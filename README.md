@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A rag tag developer with a passion in all things tech!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samash1234567&theme=onedark" alt="samash1234567" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam-ash-cy&theme=onedark" alt="sam-ash-cy" /></a> </p>
 
 
-<p><img align="left" style="height: 197px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=samash1234567&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="samash1234567" /></p>
+<p><img align="left" style="height: 197px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam-ash-cy&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sam-ash-cy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samash1234567&theme=dark" alt="samash1234567" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam-ash-cy&theme=dark" alt="sam-ash-cy" /></p>
 
 - 🔭 I’m currently working with [hoppstudio](https://hoppstudio.com/)
 
@@ -16,7 +16,7 @@
 
 - 🤝 How to reach me [Linked In (Message me I do not bite)](https://www.linkedin.com/in/samuel-ashman/)
 
-- 👨‍💻 All of my projects are available on [https://github.com/samash1234567](https://github.com/samash1234567)
+- 👨‍💻 All of my projects are available on [https://github.com/samash1234567](https://github.com/sam-ash-cy)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/samuel-ashman/](https://www.linkedin.com/in/samuel-ashman/)
 
